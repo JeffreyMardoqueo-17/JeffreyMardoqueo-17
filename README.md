@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### Me llamo Jeffrey Mardoqueo
-👋 ¡Hola! Soy [Tu Nombre], un apasionado estudiante de desarrollo de software con un enfoque especializado en el desarrollo frontend y un firme objetivo de convertirme en un desarrollador full stack. 🚀
+#👋 ¡Hola! Soy [Tu Nombre], un apasionado estudiante de desarrollo de software con un enfoque especializado en el desarrollo frontend y un firme objetivo de convertirme en un #desarrollador full stack. 🚀
 
-💼 Actualmente, me encuentro en el proceso de adquirir experiencia y conocimientos en el mundo del desarrollo web, centrándome en tecnologías como HTML, CSS y JavaScript para crear interfaces de usuario atractivas y funcionales.
+#💼 Actualmente, me encuentro en el proceso de adquirir experiencia y conocimientos en el mundo del desarrollo web, centrándome en tecnologías como HTML, CSS y JavaScript para #crear interfaces de usuario atractivas y funcionales.
 
-🌐 Mi interés no se limita únicamente al frontend. Estoy comprometido en ampliar mi conjunto de habilidades para convertirme en un desarrollador full stack, lo que significa que estoy explorando tecnologías del lado del servidor, bases de datos y la integración de sistemas para ofrecer soluciones completas y versátiles.
+#🌐 Mi interés no se limita únicamente al frontend. Estoy comprometido en ampliar mi conjunto de habilidades para convertirme en un desarrollador full stack, lo que significa #que estoy explorando tecnologías del lado del servidor, bases de datos y la integración de sistemas para ofrecer soluciones completas y versátiles.
 
 🔧 Algunas de las tecnologías y herramientas con las que trabajo incluyen:
 
