@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Me llamo Jeffrey Mardoqueo
-#👋 ¡Hola! Soy [Tu Nombre], un apasionado estudiante de desarrollo de software con un enfoque especializado en el desarrollo frontend y un firme objetivo de convertirme en un #desarrollador full stack. 🚀
+#👋 ¡Hola! Soy Jeffrey Mardoqueo (J.J), un apasionado estudiante de desarrollo de software con un enfoque especializado en el desarrollo frontend y un firme objetivo de convertirme en un #desarrollador full stack. 🚀
 
 #💼 Actualmente, me encuentro en el proceso de adquirir experiencia y conocimientos en el mundo del desarrollo web, centrándome en tecnologías como HTML, CSS y JavaScript para #crear interfaces de usuario atractivas y funcionales.
 
@@ -11,14 +11,14 @@
 - HTML5, CSS3 para diseño y maquetación.
 - JavaScript y librerías/frameworks como React para crear experiencias interactivas.
 - Node.js y Express.js para construir aplicaciones backend.
-- Bases de datos SQL y NoSQL, como MySQL y MongoDB.
+- Bases de datos SQL
 - Control de versiones con Git y GitHub, por supuesto.
 
-📚 Siempre estoy aprendiendo y buscando oportunidades para mejorar mis habilidades. Actualmente, estoy trabajando en [proyecto personal/académico] y [proyecto open source] para aplicar lo que he aprendido y colaborar con la comunidad de desarrolladores.
+📚 Siempre estoy aprendiendo y buscando oportunidades para mejorar mis habilidades. Actualmente, estoy trabajando en ub proyecto de gestion de pagos de colegiaturas y una aplicacion movil para aplicar lo que he aprendido y colaborar con la comunidad de desarrolladores.
 
 🚀 Mi objetivo es contribuir al mundo del desarrollo de software mediante la creación de aplicaciones y sitios web útiles, innovadores y de alto rendimiento. Siempre estoy dispuesto a aprender y afrontar nuevos desafíos.
 
-📫 Puedes contactarme a través de mi correo electrónico [tu@email.com] o encontrarme en LinkedIn [tu perfil de LinkedIn], ¡me encantaría conectar contigo y aprender juntos en esta emocionante travesía de desarrollo!
+📫 Puedes contactarme a través de mi correo electrónico [jeffreymardoqueo260@gmail.com] o encontrarme en LinkedIn [...],
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que puedas encontrar algo interesante en mi trabajo y proyectos. 😊
 
