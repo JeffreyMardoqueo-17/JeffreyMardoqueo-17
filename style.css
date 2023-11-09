@@ -3,9 +3,10 @@
 }
 
 .imagenes {
-    /* Puedes agregar estilos específicos para el div de imágenes si es necesario */
+    flex: 1;
 }
 
 .texto {
     /* Puedes agregar estilos específicos para el div de texto si es necesario */
+    flex: 1;
 }
