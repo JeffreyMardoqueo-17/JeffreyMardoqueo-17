@@ -1,6 +1,5 @@
 <div class = "header">
-<img src="./Siletaa.svg" alt="Mi silueta">
-
+<img class = "perfil"src="./Siletaa.svg" alt="Mi silueta" width="400" height="300" >  
 </div>
 
 
