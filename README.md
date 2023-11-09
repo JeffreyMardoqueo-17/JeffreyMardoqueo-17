@@ -1,6 +1,9 @@
-<svg width="100" height="100" src = "https://raw.githubusercontent.com/JeffreyMardoqueo-17/JeffreyMardoqueo-17/f0dd3c3ab58634cc7c864c58333230b43a483d02/Silueta.svg">
-  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
-</svg>
+<div class = "header">
+<img src="./Silueta.svg" alt="Mi silueta">
+
+</div>
+
+
 # Me llamo Jeffrey Mardoqueo
 👋 ¡Hola! Soy Jeffrey Mardoqueo (J.J), un apasionado estudiante de desarrollo de software...
 
