@@ -1,12 +1,21 @@
+<head>
+ <link rel="stylesheet" href="style.css">
+<link>
+</head>
 <div class = "header">
-<img class = "perfil"src="./Siletaa.svg" alt="Mi silueta" width="400" height="300" >  
+<div class = "imgenes">
+<img class = "perfil"src="./Siletaa.svg" alt="Mi silueta" width="400" height="300" >  </div>
+<div class = "texto">
+<p>KSDLMLSDMLSMDLMSLDMSLD</p>
+</div>
 </div>
 
-
 # Me llamo Jeffrey Mardoqueo
+
 👋 ¡Hola! Soy Jeffrey Mardoqueo (J.J), un apasionado estudiante de desarrollo de software...
 
 ### Me llamo Jeffrey Mardoqueo
+
 #👋 ¡Hola! Soy Jeffrey Mardoqueo (J.J), un apasionado estudiante de desarrollo de software con un enfoque especializado en el desarrollo frontend y un firme objetivo de convertirme en un #desarrollador full stack. 🚀
 
 #💼 Actualmente, me encuentro en el proceso de adquirir experiencia y conocimientos en el mundo del desarrollo web, centrándome en tecnologías como HTML, CSS y JavaScript para #crear interfaces de usuario atractivas y funcionales.
