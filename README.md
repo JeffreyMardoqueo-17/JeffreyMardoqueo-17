@@ -1,6 +1,6 @@
-<img width="100" height="100" xmlns="https://samsungplusnuevo.s3.amazonaws.com/product-family-item-image-image/normal/product-family-item-image-image_u79p0D142VxWh3KzOyeQ.png">
+<svg width="100" height="100" xmlns="">
   <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
-</img>
+</svg>
 
 # Me llamo Jeffrey Mardoqueo
 👋 ¡Hola! Soy Jeffrey Mardoqueo (J.J), un apasionado estudiante de desarrollo de software...
