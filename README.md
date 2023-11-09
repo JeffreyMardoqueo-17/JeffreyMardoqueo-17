@@ -1,4 +1,4 @@
-<svg width="100" height="100" xmlns="./Silueta.svg">
+<svg width="100" height="100" xmlns="https://raw.githubusercontent.com/JeffreyMardoqueo-17/JeffreyMardoqueo-17/53e4f9ee54db8dd87e4ece5ec93e49e6b16cd81f/Silueta.svg">
   <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
 </svg>
 # Me llamo Jeffrey Mardoqueo
