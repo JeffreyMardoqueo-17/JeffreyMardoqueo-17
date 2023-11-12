@@ -4,7 +4,7 @@
 </head>
 <div class = "header">
 <div class = "imgenes">
-<img class = "perfil"src="./milogo.svg.svg" alt="Mi silueta" width="400" height="300" >  </div>
+<img class = "perfil"src="./milogo.svg" alt="Mi silueta" width="500" height="300" >  </div>
 <div class = "texto">
 <p>KSDLMLSDMLSMDLMSLDMSLD</p>
 </div>
