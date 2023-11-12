@@ -7,7 +7,7 @@
 <img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="900" height="450" >  </div>
 </div>
 
-## 👋 ¡Hola! Soy Jeffrey Mardoqueo (J.J), un apasionado estudiante de desarrollo de software...
+## 👋 ¿Listos para programar hoy?
 
 
 #👋 ¡Hola! Soy Jeffrey Mardoqueo (J.J), un apasionado estudiante de desarrollo de software con un enfoque especializado en el desarrollo frontend y un firme objetivo de convertirme en un #desarrollador full stack. 🚀
