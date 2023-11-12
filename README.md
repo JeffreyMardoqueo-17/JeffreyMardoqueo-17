@@ -4,7 +4,7 @@
 </head>
 <div class = "header">
 <div class = "imgenes">
-<img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="700" height="400" >  </div>
+<img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="900" height="450" >  </div>
 </div>
 
 # Me llamo Jeffrey Mardoqueo
