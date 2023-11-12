@@ -4,7 +4,7 @@
 </head>
 <div class = "header">
 <div class = "imgenes">
-<img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="500" height="300" >  </div>
+<img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="700" height="400" >  </div>
 </div>
 
 # Me llamo Jeffrey Mardoqueo
@@ -29,11 +29,8 @@
 
 📚 Siempre estoy aprendiendo y buscando oportunidades para mejorar mis habilidades. Actualmente, estoy trabajando en ub proyecto de gestion de pagos de colegiaturas y una aplicacion movil para aplicar lo que he aprendido y colaborar con la comunidad de desarrolladores.
 
-🚀 Mi objetivo es contribuir al mundo del desarrollo de software mediante la creación de aplicaciones y sitios web útiles, innovadores y de alto rendimiento. Siempre estoy dispuesto a aprender y afrontar nuevos desafíos.
-
 📫 Puedes contactarme a través de mi correo electrónico [jeffreymardoqueo260@gmail.com] o encontrarme en LinkedIn [...],
 
-¡Gracias por visitar mi perfil de GitHub! Espero que puedas encontrar algo interesante en mi trabajo y proyectos. 😊
 
 <!--
 **JeffreyMardoqueo-17/JeffreyMardoqueo-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
