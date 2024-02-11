@@ -19,9 +19,9 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left ">
-<a href="https://linkedin.com/in/jeffrey mardoqueo jiménez santos" target="blank"><img align="center" src="./linkedin.png" alt="jeffrey mardoqueo jiménez santos" height="30" width="40" /></a>
-<a href="https://fb.com/jeff mardoqueo" target="blank"><img align="center" src="./facebook.png" alt="jeff mardoqueo" height="30" width="40" /></a>
-<a href="https://instagram.com /jeff mardoqueo" target="blank"><img align="center" src="./instagram.png" alt="jeff mardoqueo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeffrey mardoqueo jiménez santos" target="blank"><img align="center" src="./linkedin.png" alt="jeffrey mardoqueo jiménez santos" height="50" width="50" /></a>
+<a href="https://fb.com/jeff mardoqueo" target="blank"><img align="center" src="./facebook.png" alt="jeff mardoqueo" height="50" width="50" /></a>
+<a href="https://instagram.com /jeff mardoqueo" target="blank"><img align="center" src="./instagram.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact" alt="jeffreymardoqueo- 17" /></p>
