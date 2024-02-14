@@ -11,6 +11,8 @@
 <p>Me apasiona adquirir conocimientos avanzados en desarrollo de aplicaciones web para crear soluciones innovadoras y eficientes. Mi objetivo es desarrollar sistemas que me permitan alcanzar mis metas personales y proyectos de vida, utilizando tecnologías como C#, JavaScript, y frameworks como Bootstrap y Teliwin.</p>
 <p>Ademas soy una persona que cuando no estoy estudiando, procuro tener actividad fisica que me ayuda a liberar mi estres y regresar con energias renobadas, creo que si tengo una buena salud puedo rendir el 100% por eso para mi es muy importante eso, para poder brindar mi mayor esfuerzo y mejores soluciones a dibersos problemas que se me presenten en los ambitos de desarrollo. 💻💖</p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico .vercel.app/?username=jeffreymardoqueo-17" alt="jeffreymardoqueo-17" /></a> </p>
+
 - 🔭 Actualmente estoy trabajando en un proyecto de **Sistema de sitas par masajista**
 
 - 📫 Puedes escribeme al correo **jeffreymardoqueo260@gmail.com**
@@ -24,8 +26,10 @@
 <a href="https://instagram.com /jeff mardoqueo" target="blank"><img align="center" src="./instagram.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact&theme=dark" alt="jeffreymardoqueo- 17" /></p>
+<div style="display: flex; justify-content: space-between;">
+  <p style="flex: 1;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact&theme=dark" alt="jeffreymardoqueo-17" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffreymardoqueo-17&show_icons=true&locale=en&theme=dark" alt ="jeffreymardoqueo-17" /></p>
+  <p style="flex: 1;"><img src="https://github-readme-stats.vercel.app/api?username=jeffreymardoqueo-17&show_icons=true&locale=en&theme=dark" alt="jeffreymardoqueo-17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreymardoqueo-17&theme=dark" alt= "jeffreymardoqueo-17" /></p>
+  <p style="flex: 1;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreymardoqueo-17&theme=dark" alt="jeffreymardoqueo-17" /></p>
+</div>
