@@ -26,8 +26,8 @@
 <a href="https://instagram.com /jeff mardoqueo" target="blank"><img align="center" src="./instagram.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact" alt="jeffreymardoqueo- 17" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact&theme=dark" alt="jeffreymardoqueo- 17" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffreymardoqueo-17&show_icons=true&locale=en" alt ="jeffreymardoqueo-17" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffreymardoqueo-17&show_icons=true&locale=en&theme=dark" alt ="jeffreymardoqueo-17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreymardoqueo-17&" alt= "jeffreymardoqueo-17" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreymardoqueo-17&theme=dark" alt= "jeffreymardoqueo-17" /></p>
