@@ -26,7 +26,7 @@
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <div style="display: flex; flex-direction: column;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact&theme=dark" alt="jeffreymardoqueo-17" style="height: 200px; width: 250px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact&theme=dark" alt="jeffreymardoqueo-17" style="height: 200px; width: 300px">
         <img src="https://github-readme-stats.vercel.app/api?username=jeffreymardoqueo-17&show_icons=true&locale=en&theme=dark" alt="jeffreymardoqueo-17" style="height: 200px;">
     </div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreymardoqueo-17&theme=dark" alt="jeffreymardoqueo-17" style="width: 100%;">
