@@ -25,7 +25,7 @@
 </p>
 
 <div style="display: flex; justify-content: space-around;">
-    <div style="display: flex;">
+    <div style="display: grid;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact&theme=dark" alt="jeffreymardoqueo-17" style="height: 200px;">
         <img src="https://github-readme-stats.vercel.app/api?username=jeffreymardoqueo-17&show_icons=true&locale=en&theme=dark" alt="jeffreymardoqueo-17" style="height: 200px;">
     </div>
