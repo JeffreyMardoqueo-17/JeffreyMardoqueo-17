@@ -13,3 +13,6 @@
 h3{
     color: #EE96F9;
 }
+p img {
+    height: 300px; /* Altura fija deseada */
+}
