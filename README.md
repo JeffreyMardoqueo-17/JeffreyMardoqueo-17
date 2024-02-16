@@ -51,7 +51,7 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyMardoqueo-17&layout=compact&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width : 300px">
     </div>
     <div style="flex: 2;">
-        <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=JeffreyMardoqueo-17&show_icons=true&locale=en&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width: 300px">
+        <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=JeffreyMardoqueo-17&show_icons=true&locale=en&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width: 500px">
         <img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffreyMardoqueo-17&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9;">
     </div>
 </div>
