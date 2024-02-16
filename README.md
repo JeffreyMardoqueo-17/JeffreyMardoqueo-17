@@ -49,3 +49,13 @@
     </div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreymardoqueo-17&theme=dark" alt="jeffreymardoqueo-17" style="width: 100%; border: 5px solid #EE96F9;">
 </div>
+
+<!-- prueba -->
+
+<div> <a href="https://github.com/JeffreyMardoqueo-17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for -the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div> <h3 align="left">Estrellas</h3>
+<img align="left" height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyMardoqueo-17&layout=compact&theme=radical" alt=JeffreyMardoqueo-17 />
+
+<p> <img align="center " height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffreyMardoqueo-17&show_icons=true&locale=en&theme=radical" alt="JeffreyMardoqueo-17" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffreyMardoqueo-17&theme=radical" alt="JeffreyMardoqueo-17" /></p>
