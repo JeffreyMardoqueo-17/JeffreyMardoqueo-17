@@ -24,14 +24,11 @@
 <a href="https://instagram.com /jeff mardoqueo" target="blank"><img align="center" src="./instagram.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 </p>
 
+<h3 align = "left">🔥 Mis estadisticas: </h3>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <div style="display: flex; flex-direction: column;">
         <img src="https://github-readme-stats.vercel.app/api?username=jeffreymardoqueo-17&show_icons=true&locale=en&theme=dark" alt="jeffreymardoqueo-17" style="height: 200px; border: 5px solid #EE96F9;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact&theme=dark" alt="jeffreymardoqueo-17" style="height: 200px; width: 360px; border: 5px solid #EE96F9;">
     </div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreymardoqueo-17&theme=dark" alt="jeffreymardoqueo-17" style="width: 100%; border: 5px solid #EE96F9;">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
