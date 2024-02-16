@@ -48,7 +48,7 @@
         <a href="https://github.com/JeffreyMardoqueo-17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" style="height: 200px; border: 5px solid #EE96F9;"></a>
     </div>
     <div style="flex: 1;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyMardoqueo-17&layout=compact&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width : 330px">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyMardoqueo-17&layout=compact&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width : 320px">
     </div>
     <div style="flex: 2;">
         <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=JeffreyMardoqueo-17&show_icons=true&locale=en&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width: 500px">
