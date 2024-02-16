@@ -30,5 +30,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact&theme=dark" alt="jeffreymardoqueo-17" style="height: 200px; width: 360px; border: 5px solid #EE96F9;">
     </div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreymardoqueo-17&theme=dark" alt="jeffreymardoqueo-17" style="width: 100%; border: 5px solid #EE96F9;">
-</div>
+</div>x
+
 
