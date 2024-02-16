@@ -45,7 +45,7 @@
 <h3 align="left">🔥 Mis estadisticas: </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <div style="flex: 1; display: flex; flex-direction: column;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyMardoqueo-17&layout=compact&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width: 340px; height: 200px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyMardoqueo-17&layout=compact&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width: 370px; height: 200px;">
         <img src="https://github-readme-stats.vercel.app/api?username=JeffreyMardoqueo-17&show_icons=true&locale=en&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width: 450px; height: 200px;">
     </div>
     <div style="flex: 2;">
