@@ -40,22 +40,12 @@
 <a href="https://fb.com/jeff mardoqueo" target="blank"><img align="center" src="./facebook.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 <a href="https://instagram.com /jeff mardoqueo" target="blank"><img align="center" src="./instagram.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 </p>
-
-<h3 align = "left">🔥 Mis estadisticas: </h3>
+<h3 align="left">🔥 Mis estadisticas: </h3>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <div style="display: flex; flex-direction: column;">
-        <img src="https://github-readme-stats.vercel.app/api?username=jeffreymardoqueo-17&show_icons=true&locale=en&theme=dark" alt="jeffreymardoqueo-17" style="height: 200px; border: 5px solid #EE96F9;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreymardoqueo-17&show_icons=true&locale=en&layout=compact&&theme=2077" alt="jeffreymardoqueo-17" style="height: 200px; width: 360px; border: 5px solid #EE96F9;">
+        <a href="https://github.com/JeffreyMardoqueo-17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" style="height: 200px; border: 5px solid #EE96F9;"></a>
+        <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyMardoqueo-17&layout=compact&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9;">
     </div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreymardoqueo-17&theme=dark" alt="jeffreymardoqueo-17" style="width: 100%; border: 5px solid #EE96F9;">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=JeffreyMardoqueo-17&show_icons=true&locale=en&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9;">
+    <img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffreyMardoqueo-17&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9;">
 </div>
-
-<!-- prueba -->
-
-<div> <a href="https://github.com/JeffreyMardoqueo-17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for -the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div> <h3 align="left">Estrellas</h3>
-<img align="left" height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JeffreyMardoqueo-17&layout=compact&theme=radical" alt=JeffreyMardoqueo-17 />
-
-<p> <img align="center " height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffreyMardoqueo-17&show_icons=true&locale=en&theme=radical" alt="JeffreyMardoqueo-17" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffreyMardoqueo-17&theme=radical" alt="JeffreyMardoqueo-17" /></p>
