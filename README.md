@@ -8,14 +8,22 @@
 </div>
 <h1 align="center">Holaa 👋, Mi nombre Jeffrey Mardoqueo</h1>
 <h3 align="center">Actual Estudiante de desarrollo de software, con su mayoría de conocimientos en frontend con un objetivo claro por ser Desarrollador .NET </h3>
-<p>Me apasiona adquirir conocimientos avanzados en desarrollo de aplicaciones web para crear soluciones innovadoras y eficientes. Mi objetivo es desarrollar sistemas que me permitan alcanzar mis metas personales y proyectos de vida, utilizando tecnologías como C#, JavaScript, y frameworks como Bootstrap y Teliwin.</p>
-<p>Ademas soy una persona que cuando no estoy estudiando, procuro tener actividad fisica que me ayuda a liberar mi estres y regresar con energias renobadas, creo que si tengo una buena salud puedo rendir el 100% por eso para mi es muy importante eso, para poder brindar mi mayor esfuerzo y mejores soluciones a dibersos problemas que se me presenten en los ambitos de desarrollo. 💻💖</p>
+```javascript
+const jeffrey = {
+    nombre: "Jeffrey Mardoqueo",
+    objetivo: "Ser Desarrollador .NET",
+    tecnologias: ["C#", "JavaScript", "Bootstrap", "Teliwin"],
+    conocimientos: ["Desarrollo de aplicaciones web", "Frontend"],
+    proyectoActual: [
+        {
+            descripcion: "Sistema de citas para masajista",
+            link: "https://ejemplo.com/proyecto"
+        }
+    ],
+    correo: "jeffreymardoqueo260@gmail.com",
+    sobreMi: "Apasionado del desarrollo de software con enfoque en soluciones web innovadoras. Me gusta aprender nuevas tecnologías y trabajar en proyectos desafiantes."
+};
 
-- 🔭 Actualmente estoy trabajando en un proyecto de **Sistema de sitas par masajista**
-
-- 📫 Puedes escribeme al correo **jeffreymardoqueo260@gmail.com**
-
-- ⚡ Mi personalidad es ser relajado, siempre trato de **ser optimista**
 <h3 align="left">Idiomas y herramientas:</h3>
 <div style="display: flex; justify-content: center;">
     <p align="left">
