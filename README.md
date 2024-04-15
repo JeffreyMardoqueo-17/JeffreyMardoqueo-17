@@ -6,23 +6,27 @@
 <div class = "imgenes">
 <img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="900" height="450" >  </div>
 </div>
-<h1 align="center">Holaa 👋, ¿todo bien? ¿quieres saber sobre mi? </h1>
+<h1 align="center">Holaa 👋, Mi nombre Jeffrey Mardoqueo</h1>
 <h3 align="center">Actual Estudiante de desarrollo de software, con su mayoría de conocimientos en frontend con un objetivo claro por ser Desarrollador .NET </h3>
+
 ```javascript
 const jeffrey = {
-    nombre: "Jeffrey Mardoqueo",
-    objetivo: "Ser Desarrollador .NET",
-    tecnologias: ["C#", "JavaScript", "Bootstrap", "Teliwin"],
-    conocimientos: ["Desarrollo de aplicaciones web", "Frontend"],
-    proyectoActual: [
-        {
-            descripcion: "Sistema de citas para masajista",
-            link: "https://ejemplo.com/proyecto"
-        }
-    ],
-    correo: "jeffreymardoqueo260@gmail.com",
-    sobreMi: "Apasionado del desarrollo de software con enfoque en soluciones web innovadoras. Me gusta aprender nuevas tecnologías y trabajar en proyectos desafiantes."
-};```
+  nombre: "Jeffrey Mardoqueo",
+  objetivo: "Ser Desarrollador .NET",
+  tecnologias: ["C#", "JavaScript", "Bootstrap", "Teliwin"],
+  conocimientos: ["Desarrollo de aplicaciones web", "Frontend"],
+  proyectoActual: [
+    {
+      descripcion: "Sistema de citas para masajista",
+      link: "https://ejemplo.com/proyecto",
+    },
+  ],
+  correo: "jeffreymardoqueo260@gmail.com",
+  sobreMi:
+    "Apasionado del desarrollo de software con enfoque en soluciones web innovadoras. Me gusta aprender nuevas tecnologías y trabajar en proyectos desafiantes.",
+};
+```
+
 <h3 align="left">Idiomas y herramientas:</h3>
 <div style="display: flex; justify-content: center;">
     <p align="left">
@@ -41,15 +45,12 @@ const jeffrey = {
     </p>
 </div>
 
-
-
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left ">
 <a href="https://linkedin.com/in/jeffrey mardoqueo jiménez santos" target="blank"><img align="center" src="./linkedin.png" alt="jeffrey mardoqueo jiménez santos" height="50" width="50" /></a>
 <a href="https://fb.com/jeff mardoqueo" target="blank"><img align="center" src="./facebook.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 <a href="https://instagram.com /jeff mardoqueo" target="blank"><img align="center" src="./instagram.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 </p>
-
 
 <h3 align="left">🔥 Mis estadisticas: </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
