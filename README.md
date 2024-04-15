@@ -22,8 +22,7 @@ const jeffrey = {
     ],
     correo: "jeffreymardoqueo260@gmail.com",
     sobreMi: "Apasionado del desarrollo de software con enfoque en soluciones web innovadoras. Me gusta aprender nuevas tecnologías y trabajar en proyectos desafiantes."
-};
-
+};```
 <h3 align="left">Idiomas y herramientas:</h3>
 <div style="display: flex; justify-content: center;">
     <p align="left">
