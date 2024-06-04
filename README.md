@@ -6,7 +6,6 @@
 <div class = "imgenes">
 <img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="900" height="450" >  </div>
 </div>
-<h1 align="center">Holaa 👋, Mi nombre Jeffrey Mardoqueo</h1>
 <h3 align="center">Actual Estudiante de desarrollo de software, con su mayoría de conocimientos en frontend con un objetivo claro por ser Desarrollador .NET </h3>
 
 ```javascript
