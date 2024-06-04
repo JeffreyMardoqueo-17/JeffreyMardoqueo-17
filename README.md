@@ -15,7 +15,7 @@ const jeffrey = {
   tecnologias: [
     "C#",
     "JavaScript",
-    "Typescript",
+    "TypeScript",
     "Bootstrap",
     "Tailwind CSS",
     "React.js",
