@@ -13,17 +13,42 @@
 const jeffrey = {
   nombre: "Jeffrey Mardoqueo",
   objetivo: "Ser Desarrollador .NET",
-  tecnologias: ["C#", "JavaScript", "Bootstrap", "Teliwin"],
-  conocimientos: ["Desarrollo de aplicaciones web", "Frontend"],
+  tecnologias: [
+    "C#",
+    "JavaScript",
+    "Bootstrap",
+    "Tailwind CSS",
+    "React.js",
+    "Node.js",
+    ".NET",
+    "ASP.NET",
+    "SQL Server",
+    "Git",
+    "Docker",
+  ],
+  conocimientos: [
+    "Desarrollo de aplicaciones web",
+    "Frontend",
+    "Backend",
+    "Integración de sistemas",
+  ],
   proyectoActual: [
     {
-      descripcion: "Sistema de citas para masajista",
-      link: "https://ejemplo.com/proyecto",
+      descripcion: "Actualmente estoy desarrollando un proyecto de gestión de pagos de colegiaturas, que se encuentra en etapa final. Este proyecto es fullstack y utiliza tecnologías como React.js para el frontend y Tailwind CSS para el diseño y estilos. En el backend, he creado mi propia API con Node.js, Express y SQL Server. Además, estoy migrando la parte de administración a .NET ASP para mejorar la eficiencia y escalabilidad del sistema.",
     },
   ],
   correo: "jeffreymardoqueo260@gmail.com",
   sobreMi:
-    "Apasionado del desarrollo de software con enfoque en soluciones web innovadoras. Me gusta aprender nuevas tecnologías y trabajar en proyectos desafiantes.",
+    "Soy un apasionado desarrollador con experiencia en tecnologías como .NET, ASP.NET, y frameworks como Tailwind CSS y Bootstrap. Además, tengo sólidos conocimientos en React.js, Node.js, SQL Server, Git y Docker. Me considero una persona comprometida y responsable, con un fuerte deseo de aprender y crecer profesionalmente. Estoy en busca de mi primera oportunidad laboral para aplicar y ampliar mis habilidades en un entorno estimulante y colaborativo.",
+  aptitudes: [
+    "Responsabilidad",
+    "Desarrollo de liderazgo",
+    "Programación lógica",
+    "Desarrollo de software",
+    "Experiencia de usuario",
+    "Metodologías ágiles",
+    "Proyectos de desarrollo",
+  ],
 };
 ```
 
