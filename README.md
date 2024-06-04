@@ -6,7 +6,7 @@
 <div class = "imgenes">
 <!-- <img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="600" height="250" >  </div> -->
 </div>
-<h3 align="center">Actual Estudiante de desarrollo de software, con su mayoría de conocimientos en frontend con un objetivo claro por ser Desarrollador .NET </h3>
+<h2 align="center">Actual Estudiante de desarrollo de software, con su mayoría de conocimientos en frontend con un objetivo claro por ser Desarrollador .NET </h3>
 
 ```javascript
 const jeffrey = {
@@ -15,6 +15,7 @@ const jeffrey = {
   tecnologias: [
     "C#",
     "JavaScript",
+    "Typescript",
     "Bootstrap",
     "Tailwind CSS",
     "React.js",
