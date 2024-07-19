@@ -15,16 +15,13 @@ const jeffrey = {
   tecnologias: [
     "C#",
     "JavaScript",
-    "TypeScript",
     "Bootstrap",
     "Tailwind CSS",
     "React.js",
     "Node.js",
-    ".NET",
     "ASP.NET",
     "SQL Server",
     "Git",
-    "Docker",
   ],
   conocimientos: [
     "Desarrollo de aplicaciones web",
