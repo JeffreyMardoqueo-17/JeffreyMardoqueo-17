@@ -75,7 +75,6 @@ const jeffrey = {
 
 <h3 align="left">🔥 Mis estadisticas: </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    
     <div style="flex: 2;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeffreyMardoqueo-17&theme=radical" alt="JeffreyMardoqueo-17" style="border: 5px solid #EE96F9; width: 100%;">
     </div>
