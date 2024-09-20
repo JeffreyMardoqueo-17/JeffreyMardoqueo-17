@@ -8,6 +8,15 @@
 <!-- <img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="600" height="250" >  </div> -->
 </div>
 <h2 align="center">¿Vamos a programar?</h3>
+<p align = "justify">Desarrollador de Software con
+especialización en .NET, trabajando en
+frontend y backend utilizando MVC y
+arquitectura en N-capas. Habilidades
+en desarrollo web con React.js, Next.js,
+TypeScript, C#, JavaScript, y Node.js.
+Busco aplicar mis conocimientos en
+diferentes proyectos y colaborar con
+equipos de desarrollo.</p>
 
 ```javascript
 const jeffrey = {
