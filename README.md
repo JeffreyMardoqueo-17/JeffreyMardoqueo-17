@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desarrollador de Software con<br>especialización en .NET, trabajando en<br>frontend y backend utilizando MVC y<br>arquitectura en N-capas. Habilidades<br>en desarrollo web con React.js, Next.js,<br>TypeScript, C#, JavaScript, y Node.js.<br>Busco aplicar mis conocimientos en<br>diferentes proyectos y colaborar con<br>equipos de desarrollo.</p>
+<p align="center">Desarrollador de Software con<br>especialización en .NET, trabajando en<br>frontend y backend utilizando MVC y<br>arquitectura en N-capas. Habilidades<br>en desarrollo web con React.js, Next.js,<br>TypeScript, C#, JavaScript, y Node.js.<br>Busco aplicar mis conocimientos en<br>diferentes proyectos y colaborar con<br>equipos de desarrollo.</p>
 
 ###
 
@@ -40,10 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffreyMardoqueo-17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=JeffreyMardoqueo-17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JeffreyMardoqueo-17/JeffreyMardoqueo-17/output/snake.svg" alt="Snake animation" />
 
 ###
 
