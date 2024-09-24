@@ -37,12 +37,6 @@ const jeffrey = {
     "Desarrollo de aplicaciones web",
     "Frontend",
     "Backend",
-    "Integración de sistemas",
-  ],
-  proyectoActual: [
-    {
-      descripcion: "Actualmente estoy desarrollando un proyecto de gestión de pagos de colegiaturas, que se encuentra en etapa final. Este proyecto es fullstack y utiliza tecnologías como React.js para el frontend y Tailwind CSS para el diseño y estilos. En el backend, he creado mi propia API con Node.js, Express y SQL Server. Además, estoy migrando la parte de administración a .NET ASP para mejorar la eficiencia y escalabilidad del sistema.",
-    },
   ],
   correo: "jeffreymardoqueo260@gmail.com",
   aptitudes: [
