@@ -52,6 +52,9 @@
 <a href="https://linkedin.com/in/jeffrey mardoqueo jiménez santos" target="blank"><img align="center" src="./linkedin.png" alt="jeffrey mardoqueo jiménez santos" height="50" width="50" /></a>
 <a href="https://fb.com/jeff mardoqueo" target="blank"><img align="center" src="./facebook.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 <a href="https://instagram.com /jeff mardoqueo" target="blank"><img align="center" src="./instagram.png" alt="jeff mardoqueo" height="50" width="50" /></a>
+   <a href="https://wa.me/50369842090" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp Jeff" height="50" width="50" />
+  </a>
 </p>
 
 <h3 align="left">🔥 Mis estadisticas: </h3>
