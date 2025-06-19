@@ -57,7 +57,7 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left ">
-<a href="https://linkedin.com/in/jeffrey mardoqueo jiménez santos" target="blank"><img align="center" src="./linkedin.png" alt="jeffrey mardoqueo jiménez santos" height="50" width="50" /></a>
+<a href="www.linkedin.com/in/jeffrey-mardoqueo" target="blank"><img align="center" src="./linkedin.png" alt="jeffrey mardoqueo jiménez santos" height="50" width="50" /></a>
 <a href="https://fb.com/jeff mardoqueo" target="blank"><img align="center" src="./facebook.png" alt="jeff mardoqueo" height="50" width="50" /></a>
 <a href="https://instagram.com /jeff mardoqueo" target="blank"><img align="center" src="./instagram.png" alt="jeff mardoqueo" height="50" width="50" /></a>
    <a href="https://wa.me/50369842090" target="_blank">
