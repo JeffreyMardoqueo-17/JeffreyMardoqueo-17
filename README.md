@@ -9,7 +9,7 @@
 </div>
 <!-- Encabezado estilo banner -->
 <h1 align="center">Hi 👋, I'm Jeffrey Mardoqueo</h1>
-<h3 align="center">.NET Fullstack Developer | Aspiring Forex Trader | Entrepreneur in Progress 🚀</h3>
+<h3 align="center">.NET Fullstack Developer | Aspiring Forex Trader | 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=435&lines=I+build+software+with+purpose+💻;Trader+in+training%2C+future+investor+📈;Coding+my+way+to+freedom+and+legacy+🌟;Driven+by+faith%2C+vision%2C+and+love+❤️" alt="Typing SVG" />
