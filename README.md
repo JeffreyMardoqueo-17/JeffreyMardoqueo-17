@@ -12,7 +12,7 @@
 <h3 align="center">.NET Fullstack Developer | Aspiring Forex Trader | 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=435&lines=I+build+software+with+purpose+💻;Trader+in+training%2C+future+investor+📈;Coding+my+way+to+freedom+and+legacy+🌟;Driven+by+faith%2C+vision%2C+and+love+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=bf2bff&width=435&lines=I+build+software+with+purpose+💻;Trader+in+training%2C+future+investor+📈;Coding+my+way+to+freedom+and+legacy+🌟;Driven+by+faith%2C+vision%2C+and+love+❤️" alt="Typing SVG" />
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
