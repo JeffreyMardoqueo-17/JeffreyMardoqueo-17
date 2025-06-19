@@ -7,40 +7,13 @@
 <div class = "imgenes">
 <!-- <img class = "perfil"src="./PROPUESTA1.svg" alt="Mi silueta" width="600" height="250" >  </div> -->
 </div>
+<!-- Encabezado estilo banner -->
+<h1 align="center">Hi 👋, I'm Jeffrey Mardoqueo</h1>
+<h3 align="center">.NET Fullstack Developer | Aspiring Forex Trader | Entrepreneur in Progress 🚀</h3>
 
-
-```javascript
-const jeffrey = {
-  nombre: "Jeffrey Mardoqueo",
-  objetivo: "Ser Desarrollador .NET",
-  tecnologias: [
-    "C#",
-    "JavaScript",
-    "Bootstrap",
-    "Tailwind CSS",
-    "React.js",
-    "Node.js",
-    "ASP.NET",
-    "SQL Server",
-    "Git",
-  ],
-  conocimientos: [
-    "Desarrollo de aplicaciones web",
-    "Frontend",
-    "Backend",
-  ],
-  correo: "jeffreymardoqueo260@gmail.com",
-  aptitudes: [
-    "Responsabilidad",
-    "Desarrollo de liderazgo",
-    "Programación lógica",
-    "Desarrollo de software",
-    "Experiencia de usuario",
-    "Metodologías ágiles",
-    "Proyectos de desarrollo",
-  ],
-};
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=435&lines=I+build+software+with+purpose+💻;Trader+in+training%2C+future+investor+📈;Coding+my+way+to+freedom+and+legacy+🌟;Driven+by+faith%2C+vision%2C+and+love+❤️" alt="Typing SVG" />
+</p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
 
