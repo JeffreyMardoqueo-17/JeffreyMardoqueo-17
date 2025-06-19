@@ -11,15 +11,16 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Mardoqueo</h1>
 <h3 align="center">.NET Fullstack Developer | Aspiring Forex Trader | 🚀</h3>
 
-<p style="text-align: justify;">
+<p align = "center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=bf2bff&width=500&lines=I+build+software+with+purpose+💻;.NET+Fullstack+Developer+🧠;Trader+in+training+📊;Focused+on+tech,+finance,+and+impact+📌" alt="Typing SVG" />
 </p>
-<h2 align="center">👨‍💻 About Me</h2>
-<p align="center">
+<h2>👨‍💻 About Me</h2>
+<p style="text-align: justify;">
   Fullstack Developer specialized in the .NET ecosystem.<br/>
   I work with technologies like <strong>C#, ASP.NET, SQL Server, React, Next.js</strong>, and <strong>TypeScript</strong>, applying <strong>SOLID principles</strong> and architectural best practices.<br/>
   Focused on writing clean, scalable, and well-structured code, with a long-term vision of becoming a <strong>software architect</strong>.
 </p>
+
 
 
 <h3 align="left">Idiomas y herramientas:</h3>
