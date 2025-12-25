@@ -11,6 +11,9 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Mardoqueo</h1>
 <h3 align="center">.NET Fullstack Developer | Aspiring Forex Trader | 🚀</h3>
 
+<h5 align="center">Puede que no lo sepa hoy; lo aprendo🚀</h5>
+
+
 <p align = "center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=bf2bff&width=500&lines=I+build+software+with+purpose+💻;.NET+Fullstack+Developer+🧠;Trader+in+training+📊;Focused+on+tech,+finance,+and+impact+📌" alt="Typing SVG" />
 </p>
