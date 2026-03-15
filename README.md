@@ -24,6 +24,11 @@
   Focused on writing clean, scalable, and well-structured code, with a long-term vision of becoming a <strong>software architect</strong>.
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeffreyMardoqueo-17/JeffreyMardoqueo-17/main/portada.png" width="80%" />
+</p>
+
+
 
 
 <h3 align="left">Conecta conmigo:</h3>
